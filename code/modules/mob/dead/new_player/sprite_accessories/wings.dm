@@ -128,3 +128,11 @@
 /datum/sprite_accessory/deco_wings/spider_legs //Not really /WINGS/ but they protrude from the back, kinda. Might as well have them here.
 	name = "Spider"
 	icon_state = "spider"
+
+//SPLURT port
+/datum/sprite_accessory/deco_wings/harpy
+	name = "Harpy (large)"
+	icon_state = "harpy"
+	icon = 'modular_splurt/icons/mob/64_wings.dmi'
+	dimension_x = 64
+	center = TRUE
